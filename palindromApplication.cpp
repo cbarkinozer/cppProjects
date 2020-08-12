@@ -5,8 +5,8 @@ Application includes queue and stack data structure by double linked list implem
 Adding:Data's will be read from file and add by the logic of queue using double linked list implementation Check: In the linked list, values will be check if they are equal starting from the head and if they are equal they will be delete from linked list.At the end if there is a single or no element in the linked list warn the user by "this expression is palindrome" if not warn the user by printing "this expression is not palindrom".
 
 example ifade-1: abcdcba 1. adım: bcdcb 2. adım: cdc 3. adım: d Tek elaman var, dolayısıyla palindromdur edit: if the expression is not palindrom the first element will be delete automaticly and add the last elements value
-*/
 Listing:print by the queue structure
+*/
 #include<iostream> //input output
 #include<cstdlib> // standart library
 #include<fstream> // for file operations
