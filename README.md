@@ -1,2 +1,2 @@
 # cppProjects
-All small cpp programs
+My second year cpp codes.
